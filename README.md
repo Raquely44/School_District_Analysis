@@ -32,7 +32,7 @@ Overall there was minimal impact on the district summary, however the average re
 
     - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     The school data dataframe was placed in ascending order based on the % Overall of passing. Thomas High School was ranked 2nd    place but after we updated the 9th graders math and reading skills, they moved to 8th place. This had a big impact on the        scores from the whole school’s academic performance.
-<img src="Resources/By_School_Overall%_png.png">
+<img src="Resources/By_School_Overall%_.png">
 
     - How does replacing the ninth-grade scores affect the following:
       Math and reading scores by grade
